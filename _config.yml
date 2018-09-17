@@ -1,4 +1,4 @@
-title: Return # your site title
+title: "Return" # your site title
 author: wookgodsun
 email: koownusmim@gmail.com
 
@@ -24,7 +24,7 @@ navigation: # Navigation links
   - {name: 'Contact', link: '/contact'}
 
 tagline: >
-  KoreaUniversity CS 14 
+  "KoreaUniversity CS 14" 
 
 # Build settings
 markdown: kramdown
