@@ -19,6 +19,14 @@ social:
 disqus:
   shortname: wookgodsun # to enable comments replace with your_disqus_shortname
 
+navigation: # Navigation links
+  - {name: 'Home', link: '/'}
+  - {name: 'About', link: '/about'}
+  - {name: 'Contact', link: '/contact'}
+
+tagline: >
+  KoreaUniversity CS 14 
+
 # Build settings
 markdown: kramdown
 highlighter: rouge # or pygments or null
