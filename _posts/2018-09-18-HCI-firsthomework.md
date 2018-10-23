@@ -9,5 +9,5 @@ featured-img: kucs
 
 1차과제 제출 
 
-[HCI_2014210044_ 김선욱](/assets/HCI_2014210044.pdf)
+[HCI_2014210044_ 김선욱](/assets/files/HCI_2014210044.pdf)
 
