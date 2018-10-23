@@ -9,7 +9,7 @@ featured-img: kucs
 
 3차과제 제출 
 
-[HCI_2_2014210044_ 김선욱](/assets/files/데표세3차과제_2014210044_컴퓨터학과_김선욱.pdf)
+[HCI_2_2014210044_ 김선욱](/assets/files/HCI_3_2014210044.pdf)
 
 [인터뷰파일1](/assets/files/interview1.m4a)
 [인터뷰파일2](/assets/files/interview2.m4a)
